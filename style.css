@@ -189,6 +189,10 @@ nav .fa{
     max-height: auto;
     margin: 0 auto;
 }
+.article-list {
+    font-size: 20px;
+    line-height: 1.75;
+}
 .source-list{
     list-style-type: none;
     padding-left: 0;
